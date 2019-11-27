@@ -92,7 +92,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-- **Deploy this sample to Zeit! [Deploy with ZEIT Now](https://zeit.co/button)](https://github.com/mertcanyucel/gatsby-getform-example)
+- **Deploy this sample to Zeit!** [Deploy with ZEIT Now](https://zeit.co/button)](https://github.com/mertcanyucel/gatsby-getform-example)
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
