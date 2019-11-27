@@ -90,9 +90,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
-## 💫 Deploy
+## 💫 Deploy this sample using ZEIT!
 
-- **Deploy this sample to Zeit!** [![Deploy with ZEIT Now](https://zeit.co/button)](https://github.com/mertcanyucel/gatsby-getform-example)
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/mertcanyucel/gatsby-getform-example)
+
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
